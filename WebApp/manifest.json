@@ -1,0 +1,45 @@
+{
+  "name": "Two As One | Esther & Paul's Wedding",
+  "short_name": "Two As One",
+  "description": "Wedding Companion App for Esther & Paul - Find your seat, view schedule, and more",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#080d1a",
+  "theme_color": "#0a0f1a",
+  "orientation": "portrait",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxOTIgMTkyIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImEiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPjxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMxZTQwYWYiLz48c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iIzNiODJmNiIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzFkNGVkOCIvPjwvbGluZWFyR3JhZGllbnQ+PGxpbmVhckdyYWRpZW50IGlkPSJiIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj48c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjNjBhNWZhIi8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjOTNjNWZkIi8+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9ImMiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPjxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNlMmU4ZjAiLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmZmZmZmYiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cmVjdCB3aWR0aD0iMTkyIiBoZWlnaHQ9IjE5MiIgZmlsbD0iIzA4MGQxYSIgcng9IjI0Ii8+PHBhdGggZD0iTTk2LDE2NSBDNDAsMTAwIDEwLDcwIDEwLDQ0IEMxMCwyMCAzMCw2IDQ0LDYgQzYwLDYgNzUsMjAgOTYsNDAgQzExNywyMCAxMzIsNiAxNDgsNiBDMTYyLDYgMTgyLDIwIDE4Miw0NCBDMTgyLDcwIDE1MiwxMDAgOTYsMTY1IFoiIHN0cm9rZT0idXJsKCNhKSIgc3Ryb2tlLXdpZHRoPSIyMCIgZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+PHBhdGggZD0iTTk2LDE1NSBDNTAsMTA4IDI1LDgyIDI1LDU4IEMyNSwzOCAzNywyOCA1MCwyOCBDNjMsMjggNzUsMzggOTYsNTQgQzExNywzOCAxMjksMjggMTQyLDI4IEMxNTUsMjggMTY3LDM4IDE2Nyw1OCBDMTY3LDgyIDE0MiwxMDggOTYsMTU1IFoiIHN0cm9rZT0idXJsKCNiKSIgc3Ryb2tlLXdpZHRoPSIxNCIgZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+PHBhdGggZD0iTTk2LDE0NSBDNTUsMTA4IDM1LDg4IDM1LDcwIEMzNSw1NSA0NSw0OCA1NSw0OCBDNjUsNDggNzUsNTUgOTYsNjggQzExNyw1NSAxMjcsNDggMTM3LDQ4IEMxNDcsNDggMTU3LDU1IDE1Nyw3MCBDMTU3LDg4IDEzNywxMDggOTYsMTQ1IFoiIHN0cm9rZT0idXJsKCNjKSIgc3Ryb2tlLXdpZHRoPSI4IiBmaWxsPSJub25lIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48L3N2Zz4=",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA1MTIgNTEyIj48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImEiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPjxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMxZTQwYWYiLz48c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iIzNiODJmNiIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzFkNGVkOCIvPjwvbGluZWFyR3JhZGllbnQ+PGxpbmVhckdyYWRpZW50IGlkPSJiIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj48c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjNjBhNWZhIi8+PHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjOTNjNWZkIi8+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9ImMiIHgxPSIwJSIgeTE9IjAlIiB4Mj0iMTAwJSIgeTI9IjEwMCUiPjxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNlMmU4ZjAiLz48c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNmZmZmZmYiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cmVjdCB3aWR0aD0iNTEyIiBoZWlnaHQ9IjUxMiIgZmlsbD0iIzA4MGQxYSIgcng9IjY0Ii8+PHBhdGggZD0iTTI1Niw0NDAgQzEwNSwzMzAgMjUsMjYwIDI1LDE3MCBDMjUsODAgODUsNDAgMTI1LDQwIEMxNjUsNDAgMjA1LDgwIDI1NiwxMzAgQzMwNyw4MCAzNDcsNDAgMzg3LDQwIEM0MjcsNDAgNDg3LDgwIDQ4NywxNzAgQzQ4NywyNjAgNDA3LDMzMCAyNTYsNDQwIFoiIHN0cm9rZT0idXJsKCNhKSIgc3Ryb2tlLXdpZHRoPSI1MCIgZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+PHBhdGggZD0iTTI1Niw0MTAgQzEzMCwzMTAgNjUsMjUwIDY1LDE4MCBDNjUsMTMwIDk1LDEwNSAxMjUsMTA1IEMxNTUsMTA1IDE4NSwxMzAgMjU2LDE4NSBDMzI3LDEzMCAzNTcsMTA1IDM4NywxMDUgQzQxNywxMDUgNDQ3LDEzMCA0NDcsMTgwIEM0NDcsMjUwIDM4MiwzMTAgMjU2LDQxMCBaIiBzdHJva2U9InVybCgjYikiIHN0cm9rZS13aWR0aD0iMzUiIGZpbGw9Im5vbmUiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPjxwYXRoIGQ9Ik0yNTYsMzgwIEMxNTAsMzAwIDEwMCwyNTAgMTAwLDIwMCBDMTAwLDE2MCAxMjUsMTQ1IDE1MCwxNDUgQzE3NSwxNDUgMjAwLDE2MCAyNTYsMTk1IEMzMTIsMTYwIDMzNywxNDUgMzYyLDE0NSBDMzg3LDE0NSA0MTIsMTYwIDQxMiwyMDAgQzQxMiwyNTAgMzYyLDMwMCAyNTYsMzgwIFoiIHN0cm9rZT0idXJsKCNjKSIgc3Ryb2tlLXdpZHRoPSIyMCIgZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIi8+PC9zdmc+",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["lifestyle", "social"],
+  "lang": "en",
+  "dir": "ltr",
+  "prefer_related_applications": false,
+  "shortcuts": [
+    {
+      "name": "Find My Seat",
+      "short_name": "Seat",
+      "description": "Quickly find your table assignment",
+      "url": "/?view=seat",
+      "icons": [{ "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZDRhZjM3IiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjExIiBjeT0iMTEiIHI9IjgiLz48cGF0aCBkPSJtMjEgMjEtNC4zNS00LjM1Ii8+PC9zdmc+", "sizes": "96x96" }]
+    },
+    {
+      "name": "View Schedule",
+      "short_name": "Schedule",
+      "description": "Check the wedding timeline",
+      "url": "/?view=schedule",
+      "icons": [{ "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZDRhZjM3IiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHg9IjMiIHk9IjQiIHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgcng9IjIiIHJ5PSIyIi8+PGxpbmUgeDE9IjE2IiB5MT0iMiIgeDI9IjE2IiB5Mj0iNiIvPjxsaW5lIHgxPSI4IiB5MT0iMiIgeDI9IjgiIHkyPSI2Ii8+PGxpbmUgeDE9IjMiIHkxPSIxMCIgeDI9IjIxIiB5Mj0iMTAiLz48L3N2Zz4=", "sizes": "96x96" }]
+    }
+  ]
+}
